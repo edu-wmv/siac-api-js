@@ -1,7 +1,6 @@
 "use strict";
 
 import axios, { AxiosResponse } from 'axios';
-import { encode, escape, stringify } from 'querystring';
 const cheerio = require('cheerio');
 
 class User {
