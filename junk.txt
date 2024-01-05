@@ -1,0 +1,19 @@
+<tr class="odd">
+  <td style="text-align: left;"><b>SEMESTRE</b></td>
+  <td style="text-align: left;">CODIGO DA MATERIA</td>
+  <td style="text-align: left;">TITULO DA MATERIA</td>
+  <td style="text-align: center;">CARGA HORARIA</td>
+  <td style="text-align: center;">CREDITOS</td>
+  <td style="text-align: center;">NATUREZA</td>
+  <td style="text-align: center;">NOTA FINAL</td>
+  <td style="text-align: center;">RESULTADO</td>
+</tr>
+
+0 - semestre
+1 - codigo
+2 - titulo
+3 - carga horaria
+4 - creditos
+5 - natureza
+6 - nota
+7 - resultado
